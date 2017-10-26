@@ -9,7 +9,7 @@
     <title>
       Pankaj Kumar Saini
     </title>
-    <head>
+    </head>
       <body>
         Hello world!!! I am Pankaj Kumar Saini
       </body>
